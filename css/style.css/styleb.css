@@ -1,0 +1,40 @@
+
+.col-5{
+    border: 3px solid burlywood;padding: 20px;background-color: aqua;
+}
+.col-7{
+    border: 3px solid burlywood;padding: 20px;background-color: greenyellow;
+}
+.col-4{
+    border: 3px solid burlywood;background-color: greenyellow;
+}
+.col-8{
+    border: 3px solid burlywood;background-color: yellow;
+}
+.col-9{
+    border: 3px solid burlywood;padding: 10px;
+}
+body{
+    font-family: 'Andika New Basic', sans-serif;
+}
+.banner-container{
+    background-color: rgb(57, 62, 75);
+}
+.banner-column{
+    background-color: rgb(139, 44, 44);
+}
+.about-container{
+    background-color: #00BDBD;
+}
+.education-container{
+    background-color: beige;
+}
+.bg-redtype{
+    background-color: #FB857F;
+}
+.redtype-color{
+    color: #FB857F;
+}
+.circle{
+    background-color: #FB857F;width: 150px;height: 150px;border-radius: 50%;
+}
